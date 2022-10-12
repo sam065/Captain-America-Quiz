@@ -33,7 +33,7 @@ var questions = [{
   answer: "a"
 },
 {
-  question: "Who made it for Captain? a. Howard Stark b.Hawkeye",
+  question: "Who made it for Captain? a. Howard Stark b.Hawkeye ",
   answer: "a"
 },
 {
@@ -41,7 +41,7 @@ var questions = [{
   answer: "b"
 },
 {
-  question: "How old is Captain America? a. 90 b. 80",
+  question: "How old is Captain America? a. 90 b. 80 ",
   answer: "b"
 }];
 
