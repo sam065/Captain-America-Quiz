@@ -26,23 +26,23 @@ var highScores = [
 
 // array of objects containing questions and answers
 var questions = [{
-  question: "What is Captain America's weapon? ",
-  answer: "Shield"
+  question: "What is Captain America's weapon? a. Knife b. Shield ",
+  answer: "b"
 }, {
-  question: "What is the weapon made of? ",
-  answer: "Vibranium"
+  question: "What is the weapon made of? a. Vibranium b.Granite ",
+  answer: "a"
 },
 {
-  question: "Who made it for Captain?",
-  answer: "Howard Stark"
+  question: "Who made it for Captain? a. Howard Stark b.Hawkeye",
+  answer: "a"
 },
 {
-  question: "What connection does the maker have with Tony Stark?",
-  answer: "Father"
+  question: "What connection does the maker have with Tony Stark? a. Mother b. Father ",
+  answer: "b"
 },
 {
-  question: "How old is Captain America?",
-  answer: "80 years"
+  question: "How old is Captain America? a. 90 b. 80",
+  answer: "b"
 }];
 
 
